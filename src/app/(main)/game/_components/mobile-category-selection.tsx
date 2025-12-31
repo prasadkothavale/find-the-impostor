@@ -24,7 +24,7 @@ const defaultCategories = [
   { id: "objects", name: "objects", emoji: "📦" },
   { id: "movies", name: "movies", emoji: "🎬" },
   { id: "places", name: "places", emoji: "🌍" },
-  { id: "professions", name: "professions", emoji: "💼" },
+  { id: "people", name: "people", emoji: "💼" },
 ];
 
 export default function MobileCategorySelection({

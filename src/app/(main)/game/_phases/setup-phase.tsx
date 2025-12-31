@@ -56,11 +56,11 @@ export default function SetupPhase() {
     objects: `📱 ${t("objects")}`,
     movies: `🎬 ${t("movies")}`,
     places: `🌍 ${t("places")}`,
-    professions: `💼 ${t("professions")}`,
+    people: `💼 ${t("people")}`,
   };
 
   const allCategories = [
-    ...["animals", "food", "objects", "movies", "places", "professions"],
+    ...["animals", "food", "objects", "places", "movies", "people"],
     ...customCategories,
   ];
 
